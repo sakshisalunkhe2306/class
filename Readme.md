@@ -1,5 +1,5 @@
 Left Side                       Right Side
-Staging Area                    Woeking Area
+Staging Area                    Working Area
 
 M-> Modified
 Right hand side Red M-> File modified in working area
